@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986443820068",
+    "project_id": "fir-todo-list-55088",
+    "storage_bucket": "fir-todo-list-55088.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986443820068:android:e50f9b028b5121ebf97cb1",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986443820068-rt3n4gnahuisvtighekan7hq5qsvf7di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOjE9rQWpMQCD_ewiL3QDTO_Ywklbv_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986443820068-rt3n4gnahuisvtighekan7hq5qsvf7di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
